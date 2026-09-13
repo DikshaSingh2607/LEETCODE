@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

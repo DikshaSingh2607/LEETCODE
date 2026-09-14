@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |

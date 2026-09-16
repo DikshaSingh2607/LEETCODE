@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

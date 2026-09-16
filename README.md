@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1929-concatenation-of-array) |

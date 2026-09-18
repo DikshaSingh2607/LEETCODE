@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Quicksort
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Queue
 |  |
 | ------- |

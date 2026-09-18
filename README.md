@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

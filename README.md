@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0189-rotate-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

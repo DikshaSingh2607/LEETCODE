@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Counting
 |  |
 | ------- |

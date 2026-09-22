@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DikshaSingh2607/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 ## Counting
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->

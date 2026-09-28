@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0189-rotate-array) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

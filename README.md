@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0053-maximum-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/DikshaSingh2607/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->

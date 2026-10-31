@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0189-rotate-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

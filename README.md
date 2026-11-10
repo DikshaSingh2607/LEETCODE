@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0189-rotate-array) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/DikshaSingh2607/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/DikshaSingh2607/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
